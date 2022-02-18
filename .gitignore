@@ -4,3 +4,5 @@ dist
 dist-ssr
 *.local
 docs
+# Local Netlify folder
+.netlify
